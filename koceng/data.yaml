@@ -1,0 +1,6 @@
+train: koceng/train
+val: koceng/val
+
+nc: 3
+
+names: ['cemong', 'miki', 'oyen']
